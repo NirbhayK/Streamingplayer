@@ -1,4 +1,4 @@
 Streamingplayer
 ===============
 
-HLS Client for Cocoaheads Demo 
+iOS HLS Client for Cocoaheads Demo 
